@@ -7,7 +7,7 @@
 - REACT front-end library to create re-usable components to my website.<br><br>
 	:keyboard: __What I'm currently working on:__<br>
 - "Corabanth Saga: Rebellion" is a game that runs on the Unity Game Engine and the C# programming language
-- Red Jester Game website. Check out the code here: https://github.com/cjchrisjcooper/redjester-project-frontend Demo the code here: https://cjchrisjcooper.github.io/redjester-project-frontend/
+- Red Jester Game website. Check out the code here: https://github.com/cjchrisjcooper/redjester-project-frontend<br> Demo the code here: https://cjchrisjcooper.github.io/redjester-project-frontend/
 - 
  :spiral_notepad: __My current software engineering skill set:__<br>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,blender,cs,unity,git)](https://skillicons.dev)<br><br>
